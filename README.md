@@ -1,4 +1,4 @@
 # go-study
 
-## 01_go + docker
+## 01:go+docker
 dockerコンテナでgoを実行するサンプル
